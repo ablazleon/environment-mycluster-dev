@@ -1,0 +1,10 @@
+adminUser:
+  password: local:mycluster/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: ablazleon@gmail.com
+  token: local:mycluster/pipelineUser:token
+  username: ablazleon
+prow:
+  hmacToken: local:mycluster/prow:hmacToken
