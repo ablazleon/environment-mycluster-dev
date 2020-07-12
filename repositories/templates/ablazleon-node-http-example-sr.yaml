@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ablazleon
+    provider: github
+    repository: node-http-example
+  name: ablazleon-node-http-example
+spec:
+  description: Imported application for ablazleon/node-http-example
+  httpCloneURL: https://github.com/ablazleon/node-http-example.git
+  org: ablazleon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: node-http-example
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ablazleon/node-http-example.git

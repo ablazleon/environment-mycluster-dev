@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: ablazleon
+  repo: node-http-example
+  url: https://github.com/ablazleon/node-http-example.git
+  version: ""
+  versionURL: ""
