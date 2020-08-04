@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: ablazleon
-  repo: udagram-frontend
-  url: https://github.com/ablazleon/udagram-frontend.git
+  repo: mynodejsexample
+  url: https://github.com/ablazleon/mynodejsexample.git
   version: ""
   versionURL: ""
