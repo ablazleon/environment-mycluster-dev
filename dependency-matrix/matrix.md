@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[ablazleon/udagram-api-feed](https://github.com/ablazleon/udagram-api-feed.git) |  | []() | 
+[ablazleon/udagram-frontend](https://github.com/ablazleon/udagram-frontend.git) |  | []() | 

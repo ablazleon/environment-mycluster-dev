@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: ablazleon
-  repo: udagram-api-feed
-  url: https://github.com/ablazleon/udagram-api-feed.git
+  repo: udagram-frontend
+  url: https://github.com/ablazleon/udagram-frontend.git
   version: ""
   versionURL: ""
